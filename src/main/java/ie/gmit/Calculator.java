@@ -4,6 +4,6 @@ package ie.gmit;
 public class Calculator {
 
     public double add(double num1, double num2) { // This method will add two numbers and return result
-        return num1 + num2;
+        return num1 + num2; // returns result
     }
 }
