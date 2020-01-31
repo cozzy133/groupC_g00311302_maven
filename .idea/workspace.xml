@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3b9dd02-c645-44d9-820a-e140c6ee181c" name="Default Changelist" comment="IntelliJ update #2">
+    <list default="true" id="d3b9dd02-c645-44d9-820a-e140c6ee181c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ie/gmit/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/gmit/Calculator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,10 +35,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ie/gmit/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="103" selection-start-line="5" selection-start-column="103" selection-end-line="5" selection-end-column="103" />
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
-                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#122#123#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -220,7 +220,7 @@
       <updated>1580473812789</updated>
       <workItem from="1580473816774" duration="2253000" />
       <workItem from="1580476109328" duration="384000" />
-      <workItem from="1580476512544" duration="163000" />
+      <workItem from="1580476512544" duration="410000" />
     </task>
     <task id="LOCAL-00001" summary="IntelliJ update">
       <created>1580476541363</created>
@@ -236,11 +236,25 @@
       <option name="project" value="LOCAL" />
       <updated>1580476579835</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="IntelliJ update #3">
+      <created>1580476681430</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580476681430</updated>
+    </task>
+    <task id="LOCAL-00004" summary="IntelliJ update #4">
+      <created>1580476769369</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580476769369</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2800000" />
+    <option name="totallyTimeSpent" value="3047000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
@@ -287,7 +301,9 @@
     </ignored-roots>
     <MESSAGE value="IntelliJ update" />
     <MESSAGE value="IntelliJ update #2" />
-    <option name="LAST_COMMIT_MESSAGE" value="IntelliJ update #2" />
+    <MESSAGE value="IntelliJ update #3" />
+    <MESSAGE value="IntelliJ update #4" />
+    <option name="LAST_COMMIT_MESSAGE" value="IntelliJ update #4" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -312,10 +328,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ie/gmit/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="103" selection-start-line="5" selection-start-column="103" selection-end-line="5" selection-end-column="103" />
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
-            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
           </folding>
         </state>
       </provider>
