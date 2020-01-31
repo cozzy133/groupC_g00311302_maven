@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3b9dd02-c645-44d9-820a-e140c6ee181c" name="Default Changelist" comment="IntelliJ update">
+    <list default="true" id="d3b9dd02-c645-44d9-820a-e140c6ee181c" name="Default Changelist" comment="IntelliJ update #2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ie/gmit/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/gmit/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ie/gmit/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/gmit/CalculatorTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,14 +36,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ie/gmit/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="85">
+              <caret line="5" column="103" selection-start-line="5" selection-start-column="103" selection-end-line="5" selection-end-column="103" />
               <folding>
-                <element signature="e#93#94#0" expanded="true" />
                 <element signature="e#163#164#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="https://github.com/cozzy133/groupC_g00311302_maven.git">
+          <provider selected="true" editor-type-id="httpFileEditor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -79,8 +82,8 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Calculator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ie/gmit/Calculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/ie/gmit/CalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ie/gmit/Calculator.java" />
       </list>
     </option>
   </component>
@@ -168,6 +171,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
+  <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://github.com/cozzy133/groupC_g00311302_maven.git" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -212,12 +220,27 @@
       <updated>1580473812789</updated>
       <workItem from="1580473816774" duration="2253000" />
       <workItem from="1580476109328" duration="384000" />
-      <workItem from="1580476512544" duration="4000" />
+      <workItem from="1580476512544" duration="163000" />
     </task>
+    <task id="LOCAL-00001" summary="IntelliJ update">
+      <created>1580476541363</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580476541364</updated>
+    </task>
+    <task id="LOCAL-00002" summary="IntelliJ update #2">
+      <created>1580476579835</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580476579835</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2641000" />
+    <option name="totallyTimeSpent" value="2800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
@@ -263,7 +286,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="IntelliJ update" />
-    <option name="LAST_COMMIT_MESSAGE" value="IntelliJ update" />
+    <MESSAGE value="IntelliJ update #2" />
+    <option name="LAST_COMMIT_MESSAGE" value="IntelliJ update #2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -283,12 +307,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="https://github.com/cozzy133/groupC_g00311302_maven.git">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ie/gmit/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="85">
+          <caret line="5" column="103" selection-start-line="5" selection-start-column="103" selection-end-line="5" selection-end-column="103" />
           <folding>
-            <element signature="e#93#94#0" expanded="true" />
             <element signature="e#163#164#0" expanded="true" />
           </folding>
         </state>
