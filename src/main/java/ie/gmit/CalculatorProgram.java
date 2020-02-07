@@ -1,6 +1,6 @@
 package ie.gmit;
 
-public class CalculatorTest {
+public class CalculatorProgram {
     public static void main(String[] args) {
     // This class tests the Calculator class
     Calculator calc = new Calculator();
