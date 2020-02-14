@@ -1,6 +1,6 @@
-package ie.gmit;
-
 import static org.junit.jupiter.api.Assertions.*;
+
+import ie.gmit.Calculator;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.*;
 
@@ -33,6 +33,15 @@ public class CalculatorTests {
     void testAdd(TestInfo testInfo)
     {
         assertEquals(20, myCalculator.add(10, 10));
+    }
+
+    @Test
+    @DisplayName("test Subtract by zero")
+    void testDivideByZero(TestInfo testInfo)
+    {
+        Assertions.assertThrows(ArithmeticException.class, () -> {
+            myCalculator.divide(10, 0);
+        });
     }
 
     @Test
