@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d3b9dd02-c645-44d9-820a-e140c6ee181c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ie/gmit/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/gmit/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ie/gmit/CalculatorTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -51,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ie/gmit/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="30" column="12" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+            <state relative-caret-position="340">
+              <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
               <folding>
                 <element signature="e#1057#1058#0" expanded="true" />
               </folding>
@@ -345,7 +342,7 @@
       <workItem from="1581078427960" duration="2625000" />
       <workItem from="1581084142975" duration="83000" />
       <workItem from="1581084244738" duration="304000" />
-      <workItem from="1581683367230" duration="1932000" />
+      <workItem from="1581683367230" duration="2064000" />
     </task>
     <task id="LOCAL-00001" summary="IntelliJ update">
       <created>1580476541363</created>
@@ -389,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581084260197</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added JaCoCo automated testing">
+      <created>1581685411998</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1581685411998</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -417,15 +421,18 @@
     <history-entry file="CalculatorTests - 2020.02.14 at 13h 00m 52s.xml">
       <configuration name="CalculatorTests" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CalculatorTests - 2020.02.14 at 13h 01m 44s.xml">
+      <configuration name="CalculatorTests" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8249000" />
+    <option name="totallyTimeSpent" value="8381000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27427185" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27427185" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -449,7 +456,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32928804" />
+      <window_info active="true" anchor="right" id="Maven" order="3" visible="true" weight="0.32928804" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" weight="0.32928804" />
@@ -470,7 +477,8 @@
     <MESSAGE value="IntelliJ update #4" />
     <MESSAGE value="IntelliJ update #5" />
     <MESSAGE value="All working" />
-    <option name="LAST_COMMIT_MESSAGE" value="All working" />
+    <MESSAGE value="Added JaCoCo automated testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added JaCoCo automated testing" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/.temp">
@@ -512,8 +520,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ie/gmit/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="30" column="12" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        <state relative-caret-position="340">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
           <folding>
             <element signature="e#1057#1058#0" expanded="true" />
           </folding>
